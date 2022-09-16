@@ -1,0 +1,8 @@
+.technology__description {
+  width: 190px;
+  margin: var(--flds-clr);
+  padding: var(--flds-clr); 
+  font-size: 12px;
+  line-height: 14px;
+  font-weight: 400;
+}

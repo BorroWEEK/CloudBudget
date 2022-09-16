@@ -1,0 +1,7 @@
+.technology__title {
+  margin: 0 0 60px 0;
+  padding: var(--flds-clr);
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 43px;
+}

@@ -1,0 +1,3 @@
+.column__stores-item:nth-of-type(n+2) {
+  margin-left: 24px;
+}

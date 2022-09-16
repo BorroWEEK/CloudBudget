@@ -1,0 +1,7 @@
+.column__stores {
+  margin: 45px 0 0 0;
+  padding: var(--flds-clr);
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+}

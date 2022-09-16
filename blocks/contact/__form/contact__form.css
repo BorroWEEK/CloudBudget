@@ -1,0 +1,7 @@
+.contact__form {
+  width: 540px;
+  height: 305px;
+  display: flex;
+  flex-direction: column;
+  border: none;
+}

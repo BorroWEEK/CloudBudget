@@ -1,0 +1,8 @@
+.column__img_level_2 {
+  position: absolute;
+  background-image: url('../../../../images/slider-l2.png');
+  background-repeat: no-repeat;
+  left: -40px;
+  top: 22px;
+  z-index: -1;
+}
