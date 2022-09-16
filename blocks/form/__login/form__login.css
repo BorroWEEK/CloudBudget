@@ -1,0 +1,5 @@
+.form__login {
+    margin: var(--flds-clr);
+    padding: var(--flds-clr);
+    border: none;
+}

@@ -1,0 +1,5 @@
+.form__lang-opt {
+    border: 1px solid var(--strb);
+    color: var(--strb);
+    background-color: white;
+}

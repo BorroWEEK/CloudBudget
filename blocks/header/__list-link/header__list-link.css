@@ -1,0 +1,13 @@
+.header__list-link {
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    line-height: 17px;
+    font-weight: bold;
+    text-transform: uppercase;
+    transition: opacity 1s ease-in-out;
+}
+
+.header__list-link:hover {
+    opacity: .5;
+}

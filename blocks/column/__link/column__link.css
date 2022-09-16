@@ -1,0 +1,12 @@
+.column__link {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 140%;
+    color: #ed4c5c;
+    text-decoration: none;
+    transition: opacity 1s ease-out;
+}
+
+.column__link:hover {
+    opacity: .7;
+}

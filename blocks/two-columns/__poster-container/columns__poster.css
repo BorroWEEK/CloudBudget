@@ -1,0 +1,16 @@
+.two-columns__poster-container {
+    position: relative;
+}
+
+.two-columns__poster-container::before {
+    content: '';
+    position: absolute;
+    width: 66px;
+    height: 66px;
+    background-image: url('../../../images/player.svg');
+    top: calc((311px / 2) - 33px);
+    left: -33px;
+    z-index: 2;
+    cursor: pointer;
+    animation: skale-anim 4s linear infinite;
+}

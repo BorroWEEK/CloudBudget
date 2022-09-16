@@ -1,0 +1,8 @@
+.cards {
+  margin: var(--flds-clr);
+  padding: var(--flds-clr);
+  max-width: 1110px;
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+}

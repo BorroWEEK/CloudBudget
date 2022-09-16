@@ -1,0 +1,9 @@
+.header__logo {
+    display: flex;
+    align-items: center;
+    transition: opacity 1s linear;
+}
+
+.header__logo:hover {
+    opacity: .5;
+}

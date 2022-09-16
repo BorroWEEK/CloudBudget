@@ -1,0 +1,17 @@
+.card {
+  position: relative;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  width: 350px;
+  height: 355px;
+  padding: 0 30px;
+  text-align: center;
+  z-index: 0;
+}
+
+.card:not(:first-of-type) {
+  margin-left: 30px;
+}

@@ -1,0 +1,12 @@
+.button {
+    padding: 16px 52px;
+    margin: var(--flds-clr);
+    border-radius: 6px;
+    color: white;
+    background-color: transparent;
+    border: 1px solid white;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: background-color 1s ease-out, 
+                color 1s ease-out;
+}

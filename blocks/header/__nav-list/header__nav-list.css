@@ -1,0 +1,7 @@
+.header__nav-list {
+    margin: var(--flds-clr);
+    padding: var(--flds-clr);
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+}

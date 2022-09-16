@@ -1,0 +1,7 @@
+.column__text {
+    margin: 0 0 20px 0;
+    padding: var(--flds-clr);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 140%;
+}

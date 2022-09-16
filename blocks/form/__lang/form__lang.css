@@ -1,0 +1,11 @@
+.form__lang {
+    background-color: transparent;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.form__lang:focus {
+    outline: white 1px solid;
+    border-radius: 4px;
+}

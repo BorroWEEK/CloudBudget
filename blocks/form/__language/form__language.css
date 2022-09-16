@@ -1,0 +1,7 @@
+.form__language {
+    margin: var(--flds-clr);
+    padding: var(--flds-clr);
+    border: none;
+    display: flex;
+    align-items: center;
+}

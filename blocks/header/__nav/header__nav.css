@@ -1,0 +1,6 @@
+.header__nav {
+    margin: var(--flds-clr);
+    padding: var(--flds-clr);
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,8 @@
+:root {
+    --strb: #ee3d1b;
+    --rspb: #d52047;
+
+    --flds-clr: 0 0 0 0;  /* Reset all fields */
+
+    font-family: 'Lato', sans-serif;
+}
