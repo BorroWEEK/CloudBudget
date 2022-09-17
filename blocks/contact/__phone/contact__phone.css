@@ -1,0 +1,5 @@
+.contact__phone {
+  margin: 0 0 24px 0;
+  padding: var(--flds-clr);
+  border: none;
+}

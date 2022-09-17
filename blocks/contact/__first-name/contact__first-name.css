@@ -1,0 +1,13 @@
+.contact__first-name {
+  box-sizing: border-box;
+  max-width: 255px;
+  height: 60px;
+  margin: 0 30px 0 0;
+  padding: 20px 32px;
+  border: 1px solid black;
+  border-radius: 6px;
+}
+
+.contact__first-name::placeholder {
+  color: rgba(19, 39, 67, .5);
+}

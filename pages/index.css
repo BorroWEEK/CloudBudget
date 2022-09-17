@@ -125,3 +125,47 @@
 @import url('../blocks/contact/__text/contact__text.css');
 
 @import url(../blocks/contact/__form/contact__form.css);
+
+@import url('../blocks/contact/__name/contact__name.css');
+
+@import url('../blocks/contact/__phone/contact__phone.css');
+
+@import url('../blocks/contact/__first-name/contact__first-name.css');
+
+@import url('../blocks/contact/__last-name/contact__last-name.css');
+
+@import url('../blocks/contact/__tel/contact__tel.css');
+
+@import url('../blocks/contact/__select/contact__select.css');
+
+@import url('../blocks/button/_place/button_place_contact.css');
+
+@import url('../blocks/footer/footer.css');
+
+@import url('../blocks/footer/__info/footer__info.css');
+
+@import url('../blocks/footer/__info-item/footer__info-item.css');
+
+@import url('../blocks/footer/__info-title/footer__info-title.css');
+
+@import url('../blocks/footer/__address/footer__address.css');
+
+@import url('../blocks/services/services.css');
+
+@import url('../blocks/footer/__services/footer__services.css');
+
+@import url('../blocks/services/__link/services__link.css');
+
+@import url('../blocks/footer/__email/footer__email.css');
+
+@import url('../blocks/footer/__phone/footer__phone.css');
+
+@import url('../blocks/social-icons/social-icons.css');
+
+@import url('../blocks/social-icons/__item/social-icons__item.css');
+
+@import url('../blocks/social-icons/__link/social-icons__link.css');
+
+@import url('../blocks/footer/__payment-card-container/footer__payment-card-container.css');
+
+@import url('../blocks/footer/__copy/footer__copy.css');

@@ -1,0 +1,11 @@
+.contact__tel {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 20px 32px;
+  border: 1px solid black;
+  border-radius: 6px;
+}
+
+.contact__tel::placeholder {
+  color: rgba(19, 39, 67, .5);
+}

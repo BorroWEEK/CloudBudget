@@ -1,0 +1,7 @@
+.footer__payment-card-container {
+  width: 218px;
+  height: 31px;
+  background-image: url('../../../images/visa-and-ms.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}

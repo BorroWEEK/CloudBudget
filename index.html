@@ -29,10 +29,10 @@
                         <a href="#technology" class="header__list-link">Technology</a>
                     </li>
                     <li class="header__list-item">
-                        <a href="#" class="header__list-link">Contact</a>
+                        <a href="#contact" class="header__list-link">Contact</a>
                     </li>
                     <li class="header__list-item">
-                        <a href="#" class="header__list-link">Sign Up</a>
+                        <a href="#footer" class="header__list-link">Sign Up</a>
                     </li>
                 </ul>
 
@@ -197,7 +197,7 @@
                 </div>
             </section>
 
-            <section class="contact">
+            <section class="contact" id="contact">
                 <div class="contact__description">
                     <h2 class="contact__title">Contact</h2>
                     <p class="contact__text">
@@ -221,7 +221,7 @@
                     </fieldset>
 
                     <fieldset class="contact__phone">
-                        <input type="tel" class="contact__phone" 
+                        <input type="tel" class="contact__tel" 
                                id="phone"
                                placeholder="Phone Number"
                                name="phone-number"
@@ -236,11 +236,76 @@
                         <option value="csv-download" class="contact__select-option">CSV Download</option>
                     </select>
 
-                    <input type="submit" value="Submit Now">
+                    <!-- Value -->
+                    <input type="submit" value="Submit Now" id="contact__submit" class="button button_place_contact button_bg_white">
                 </form>
             </section>
 
         </main>
+
+        <footer class="footer" id="footer">
+            <ul class="footer__info">
+                <li class="footer__info-item">
+                    <h2 class="footer__info-title">Address</h2>
+                    <p class="footer__address">
+                        Pipang Ltd, Griva Digeni,
+                        81-83 Jacovides Tower, 1st Floor
+                        1090 Picosia USA
+                    </p>
+                </li>
+
+                <li class="footer__info-item">
+                    <h2 class="footer__info-title">Services</h2>
+                    <ul class="services footer__services">
+                        <li class="services__item">
+                            <a href="#overview" class="services__link">Overview</a>
+                        </li>
+                        <li class="services__item">
+                            <a href="#features" class="services__link">Features</a>
+                        </li>
+                        <li class="services__item">
+                            <a href="#technology" class="services__link">Technology</a>
+                        </li>
+                        <li class="services__item">
+                            <a href="#" class="services__link">Terms & Conditions</a>
+                        </li>
+                        <li class="services__item">
+                            <a href="#" class="services__link">Privacy</a>
+                        </li>
+                    </ul>
+                </li>
+
+                <li class="footer__info-item">
+                    <h2 class="footer__info-title">Get in Touch</h2>
+                    <p class="footer__email">info@cloudbudget.com</p>
+                    <p class="footer__phone">+1 844-721-7120</p>
+                    <ul class="social-icons">
+                        <li class="social-icons__item">
+                            <a href="#" class="social-icons__link">
+                                <img src="./images/facebook.svg" alt="Facebook" class="social-icons__icon">
+                            </a>
+                        </li>
+                        <li class="social-icons__item">
+                            <a href="#" class="social-icons__link">
+                                <img src="./images/linkedin.svg" alt="Linkedin" class="social-icons__icon">
+                            </a>
+                        </li>
+                        <li class="social-icons__item">
+                            <a href="#" class="social-icons__link">
+                                <img src="./images/twitter.svg" alt="Twitter" class="social-icons__icon">
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+
+                <li class="footer__info-item">
+                    <h2 class="footer__info-title">We Support</h2>
+                    <div class="footer__payment-card-container"></div>
+                </li>
+            </ul>
+
+            <p class="footer__copy">Copyright 2022 CloudBudget by Vladislav Romanov</p>
+        </footer>
     </div>
 </body>
 </html>

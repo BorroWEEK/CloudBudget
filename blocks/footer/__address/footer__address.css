@@ -1,0 +1,8 @@
+.footer__address {
+  width: 180px;
+  margin: var(--flds-clr);
+  padding: var(--flds-clr);
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 18px;
+}

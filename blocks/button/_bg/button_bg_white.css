@@ -1,4 +1,5 @@
 .button_bg_white:hover {
     background-color: white;
     color: var(--strb);
+    border: 1px solid #ed4c5c;
 }

@@ -1,0 +1,9 @@
+.footer {
+  margin: var(--flds-clr);
+  padding: 86px 162px;
+  min-height: 435px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #fafafa;
+}
